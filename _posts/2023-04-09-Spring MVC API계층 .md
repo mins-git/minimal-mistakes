@@ -147,9 +147,10 @@ Spring MVC는 XML이나 Java Config 등의 설정 파일을 이용하여 애플�
 ## 2️⃣ Spring MVC의 동작방식과 구성요소
 
 
-![active.png](..%2Fimages%2F2023-04-09-Spring%20MVC%20API%EA%B3%84%EC%B8%B5%2Factive.png)
 
 
+
+![DispathcerServlet](C:\Users\MIN\Desktop\github\mins-github-blog\mins-git.github.io\images\2023-04-09-Spring MVC API계층 \DispathcerServlet.png)
 
 <br> <center> 클라이언트가 요청을 전송했을 때, <br> Spring MVC가 내부적으로 이 요청을 어떻게 처리하는 과정.  </center>
 
