@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23f42bcb-8119-4b55-8c17-0f5be03e3d22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-13-Pre-Project 기획.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-13-Pre-Project 기획.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-14-Pre-Project 공부.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-14-Pre-Project 공부.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-14-단어 정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-14-단어 정리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-15-PJ_030-User_1.Repository.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-15-PJ_030-User_1.Repository.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-15-PJ_030-User_2.Entity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-15-PJ_030-User_2.Entity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-17-PJ_030-User_3.Entity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-17-PJ_030-User_3.Entity.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OcqQI92hpnON686gEU0ueZflhQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23f42bcb-8119-4b55-8c17-0f5be03e3d22" name="Changes" comment="" />
+      <created>1681870199560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681870199560</updated>
+    </task>
+    <servers />
+  </component>
+</project>
